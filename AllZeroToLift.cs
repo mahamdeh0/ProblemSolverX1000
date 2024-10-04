@@ -1,6 +1,6 @@
-﻿public class problemOne
+﻿public class AllZeroToLift
 {
-    public static void AllZeroToLift(int[] numbers)
+    public static void AllZeroToLift0(int[] numbers)
     {
 
         int counter = 0;
